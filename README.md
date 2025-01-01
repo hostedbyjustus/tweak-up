@@ -70,6 +70,9 @@ Using these tools, you can unlock most features that are only available on new i
 | Remove App labels | Snowboard | Remap or remove quick action buttons | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
 | Remove Widget labels | NoWidgetLabels | Remap or remove quick action buttons | 14.0+ | Free | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | App Locking | A-Shields | Remap or remove quick action buttons | 12.0+ | Free | [Merona Repo](https://repo.co.kr/package/com.rpgfarm.a-shields) |
+| Custom CC Organization  | CCSupport | Remap or remove quick action buttons | 11.0+ | Free | [Opa334 GitHub](https://github.com/opa334/CCSupport) |
+| Rounded CC modules  | CC18 | Remap or remove quick action buttons | 14.0+* | Free | [dayanch96 GitHub](https://github.com/dayanch96/CC18) |
+| Custom CC module Sizes  | Centra | Remap or remove quick action buttons | 15.0+ | $0.99 | [Havoc](https://havoc.app/package/centra) |
 
 ### Apple Intelligence:
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
