@@ -34,9 +34,13 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
 ## **Useful Tools (for newer iPhones, with or without a jailbreak)**
 Using these tools, you can unlock most features that are only available on new iPhones, without "jailbreaking" in a traditional sense. 
 
+- [Cowabunga Lite](https://cowabun.ga/)<br>
+  A helpful tool that allows you to enable extra stuff and helps with theming.<br>
+  **Supports iOS 15.0 - newest iOS. Computer required.**
+
 - [Nugget](https://github.com/leminlimez/Nugget)<br>
   An awesome tool that allows you to enable features from newer iPhones.<br>
-  **Supports iOS 17.0-17.7 and iOS 18.0-18.1 beta 4. Computer required.**
+  **Supports iOS 17.0 - 17.7 and iOS 18.0 - 18.1 beta 4. Computer required.**
   
 - [Misaka X](https://github.com/straight-tamago/misakaX)<br>
   A great tool that can enable features from newer iPhones. **Can install trollstore**<br>
@@ -57,13 +61,23 @@ Using these tools, you can unlock most features that are only available on new i
 | Keyboard | EmoZoom | Scale emoji size on iOS emoji keyboard. | 8.3 - 17.5 | Free | [Chariz](https://chariz.com/get/emozoom) |
 | Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
-| Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
-| Design | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
+| Place Icons anywhere | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
+| Dark Mode Icons | Solstice | iOS 18 dark system-wide theme | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 13 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | Photos | LoopVideos | Loop videos in Photos app. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Camera | RecordPause | Pause/resume video recording | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
+| Remove App labels | Snowboard | Remap or remove quick action buttons | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
+| Remove Widget labels | NoWidgetLabels | Remap or remove quick action buttons | 14.0+ | Free | [ETHN's Repo](https://nahtedetihw.github.io/) |
+| App Locking | A-Shields | Remap or remove quick action buttons | 12.0+ | Free | [Merona Repo](https://repo.co.kr/package/com.rpgfarm.a-shields) |
 
+### Apple Intelligence:
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Writing Tools | Write Now | Adds the AI Rewrite feature to Jailbroken devices | 15.0+ | $4.99 | [Havoc](https://havoc.app/package/writenow) |
+| AI Siri Integration | SiriPlus | ChatGPT/Gemini Integration for Siri | 14.0+ | $4.99 | [Havoc](https://havoc.app/package/siriplus) |
+| Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0+ | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
+| ↳ | Violet | Siri Theming tool | 14.0-14.8.1 | Free | [Havoc](https://havoc.app/package/violet) |
 
 ---
 
