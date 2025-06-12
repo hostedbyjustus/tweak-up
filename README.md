@@ -19,6 +19,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - [Misaka X](https://github.com/straight-tamago/misakaX)
     - [Trollstore](https://github.com/opa334/TrollStore)
 - **Tweaks**
+    - 🪟 [iOS 26](#ios-26)
     - 🎨 [iOS 18](#ios-18)
     - 🗺️ [iOS 17](#ios-17)
     - 🔋 [iOS 16](#ios-16)
@@ -54,6 +55,19 @@ Using these tools, you can unlock most features that are only available on new i
 
 
 ## **Tweaks (for iPhones with a jailbreak)**
+# iOS 26 
+
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| x | x | x | x | x | [x](x) |
+
+### Apple Intelligence:
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| x | x | x | x | x | [x](x) |
+
+---
+
 # iOS 18 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
