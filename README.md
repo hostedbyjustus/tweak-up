@@ -133,15 +133,36 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Homescreen | SearchDots | Replaces the page dots with Spotlight Search Pill | 14.0 - 15.7 | Free | [Chariz](https://chariz.com/get/searchdots) |
 | Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/aim) |
-| Wallpaper Depth Effect | Exiwall | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
-| Battery Styling | Ampere | A tweak to replicate iOS 16's battery styling | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/ampere) |
+| ↳ | Complications | Lockscreen Widgets  | 12.0-14.8.1 | $1.99 | [Havoc](https://havoc.app/package/complications) |
+| Lock Screen | Resentment | Lockscreen Music Player | 14.0+ | $1.49 | [Havoc](https://havoc.app/package/resentment) |
+| Lock Screen | ENA - Extract Nearly Anything | Remove BG from Images | 14.0+ | $3.99 | [Havoc](https://havoc.app/package/ena) |
+| Lockscreen | Exiwall [Foxfort Tweak] | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
+| Battery UI | Ampere | A tweak to replicate iOS 16's battery styling | 14.0-17.7.3 | Free | [Havoc](https://havoc.app/package/ampere) |
+| ↳ | Juice | A tweak to replicate iOS 16's battery styling | 12.0+ | Subscription | [Sparkdev Repo](https://www.sparkdev.me/package/com.spark.juice) |
+| ↳ | Modern Battery | A tweak to replicate iOS 16's battery styling | 12.1-14.8.1 | Free | [Havoc](https://havoc.app/package/modernbattery) |
+| ↳ | Arkrome | A tweak to replicate iOS 16's battery styling | 12.0-14.8.1 | Free | [Saurik Repo](https://cydia.saurik.com/package/com.dpkg.arkrome) |
+| AirDrop  | TempDrop | AirDrop Time Limit | 14.0+ | Free | [Havoc](https://havoc.app/package/tempdrop) |
+| UI  | Atlas | New Video Player UI  | 14.0+ | Free | [Havoc](https://havoc.app/package/atlas) |
+| Music | ArtFull | New Slider UI | 14.0+ | Free | [Havoc](https://havoc.app/package/artful) |
+| ↳ | NoMusicVolumeKnob | New Music Volume Slider | 13.0+ | Free | [ETHN'S Repo](https://nahtedetihw.github.io/) |
+| Music | MusicAlert | iOS 16.4 Music Alert UI | 13.0+ | Free | [Havoc](https://havoc.app/package/musicalert) |
 | Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/emerald) |
 | Dynamic Island | DynamicPeninsula | Get Dynamic Island effects on your notch | 13.0 - 16.7.10, Notched iPhones Only | $3.99 | [Limneos](https://limneos.net/dynamicpeninsula/) | [u/TECKBAT](https://www.reddit.com/user/TECKBAT/) |
-| Newer Apple Watches | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
+| Emojis  | EmojiPort | Unicode 14/16.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
+| watchOS | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
 | Authentication | checkl0ck | checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 16.7.10 | $3.99 | [Havoc](https://havoc.app/package/checkl0ck) |
-| Live Activity Widgets | Live Activities | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
+| Widgets | Live Activities | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 14.8.1 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
 | Live Text | Live Text Enabler | Enable Live Text on unsupported iOS 15 devices | 15.0 - 16.7.10 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/livetextenabler.html) | [u/TheInsane103](https://www.reddit.com/user/TheInsane103/) |
-| Mark Messages Unread | MarkMessagesUnread | An tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
+| Messages | MarkMessagesUnread | An tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
+
+### Pro Model Features:
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Display | LastLook | Always On Display | 12.0+ | $3.99 | [Chariz](https://chariz.com/buy/lastlook) |
+| Dynamic Island | VisibleIsland   [iOS 16+ REQUIRED] | Dynamic Island on any device  | 16.0+ | Free | [ethxnn88 Repo](https://ethxnn88.github.io/repo/) |
+| ↳ | Dynamic Pensula [NOT NATIVE] | Dynamic Island on any device  | 12.0+ | Free | [LimneOS Repo](https://limneos.net/dynamicpeninsula/) |
+| ↳ | NotchControl [NOT NATIVE] | Dynamic Island on any device  | 11.0-14.8.1 | Free | [Havoc](https://havoc.app/package/notchcontrol) |
+
 
 ---
 
