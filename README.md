@@ -89,9 +89,13 @@ Using these tools, you can unlock most features that are only available on new i
 | Control Center  | Centra | Custom CC module Sizes | 15.0+ | $0.99 | [Havoc](https://havoc.app/package/centra) |
 | Control Center  | QuickActions | Custom Lockscreen Shortcuts | 14.0+ | Free | [Chariz](https://chariz.com/get/quickactions) |
 | Control Center  | CCMusicArtwork | Cover in CC Media module | 11.0+ | Free | [Sparkdev Repo](https://www.sparkdev.me/package/com.spark.ccmusicartwork) |
-| Control Center  | PopOutButtons | New Pop-out Button UI | 13.0+ | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
-| Control Center  | Centra | Custom CC module Sizes | 15.0+ | $0.99 | [Havoc](https://havoc.app/package/centra) |
-| Control Center  | Centra | Custom CC module Sizes | 15.0+ | $0.99 | [Havoc](https://havoc.app/package/centra) |
+| UI  | PopOutButtons | New Pop-out Button UI | 13.0+ | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
+| Emojis  | EmojiPort | Unicode 16/18.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
+| Messages | ReplyActions | Schedule Messages | 14.0+ | $4.99 | [Havoc](https://havoc.app/package/replyactions) |
+| Phone | TrollRecorder JB | Call Recording | 15.0+ | $6.99 | [Havoc](https://havoc.app/package/trollrecorderjb) |
+| Mirroring | CatVNC | iPhone Mirroring | 14.0+ | $5.99 | [Havoc](https://havoc.app/package/catvnc) |
+| Calculator | CalculatorHistory | iOS 18-like Calculator history | 14.0+ | Free | [Havoc](https://havoc.app/package/calchistory) |
+| watchOS | Legizmo ‘Moonstone’ | Pair watchOS6-11 to iOS 14+ | 14.0+ | $4.99 | [Chariz](https://chariz.com/buy/legizmo-moonstone) |
 
 ### Apple Intelligence:
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
