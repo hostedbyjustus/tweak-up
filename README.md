@@ -78,7 +78,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
 | ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0-13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
-| LockScreen | QuickActions | Remap or remove quick action buttons | 13 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
+| LockScreen | QuickActions | Remap or remove quick action buttons | 14.0 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0-14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
 | ↳ | Jumper | Custom Lockscreen Shortcuts | 12.0-14.8.1 | $1.99 | [Havoc](https://havoc.app/package/jumper) |
 | Photos | LoopVideos | Loop videos in Photos app. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
