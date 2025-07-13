@@ -79,8 +79,8 @@ Using these tools, you can unlock most features that are only available on new i
 | ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0-13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 14.0 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
-| ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0-14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
-| ↳ | Jumper | Custom Lockscreen Shortcuts | 12.0-14.8.1 | $1.99 | [Havoc](https://havoc.app/package/jumper) |
+| ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0 - 14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
+| ↳ | Jumper | Custom Lockscreen Shortcuts | 12.0 - 14.8.1 | $1.99 | [Havoc](https://havoc.app/package/jumper) |
 | Photos | LoopVideos | Loop videos in Photos app. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Camera | RecordPause | Pause/resume video recording | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
@@ -98,6 +98,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Phone | TrollRecorder JB | Call Recording | 15.0+ | $6.99 | [Havoc](https://havoc.app/package/trollrecorderjb) |
 | Mirroring | CatVNC | iPhone Mirroring | 14.0+ | $5.99 | [Havoc](https://havoc.app/package/catvnc) |
 | Calculator | CalculatorHistory | iOS 18-like Calculator history | 14.0+ | Free | [Havoc](https://havoc.app/package/calchistory) |
+| Calculator | CalculatorConverter | iOS 18-like Calculator history | 14.0 - 16.7.11 | Free | [Havoc](https://havoc.app/package/calcconverter) |
 | watchOS | Legizmo ‘Moonstone’ | Pair watchOS6-11 to iOS 14+ | 14.0+ | $4.99 | [Chariz](https://chariz.com/buy/legizmo-moonstone) |
 
 ### Apple Intelligence:
