@@ -59,6 +59,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Homescreen | Vitreux | Liquid Glass like effects everywhere | 16.0+ | Free | [MTAC Repo](https://mtac.app/repo/) |
 | Control Center | CC26 | Liquid Glass on the Control Center | 15.0-16.6.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
 
 ### Apple Intelligence:
