@@ -211,6 +211,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Lockscreen | Waktos 2 | Android Lockscreen | 15.0 - 15.8.4 | $1.99 | [Havoc](https://havoc.app/package/waktos2) |
 | Lockscreen | Waktos | Android Lockscreen | 13.0 - 14.0 | Free | [Havoc](https://havoc.app/package/waktos) |
 
 ---
