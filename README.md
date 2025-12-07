@@ -140,16 +140,12 @@ Using these tools, you can unlock most features that are only available on new i
 | Lock Screen | ENA - Extract Nearly Anything | Remove BG from Images | 14.0+ | $3.99 | [Havoc](https://havoc.app/package/ena) |
 | Lockscreen | Exiwall [Foxfort Tweak] | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
 | Battery UI | Ampere | A tweak to replicate iOS 16's battery styling | 14.0-17.7.3 | Free | [Havoc](https://havoc.app/package/ampere) |
-| ↳ | Juice | A tweak to replicate iOS 16's battery styling | 12.0+ | Subscription | [Sparkdev Repo](https://www.sparkdev.me/package/com.spark.juice) |
-| ↳ | Modern Battery | A tweak to replicate iOS 16's battery styling | 12.1-14.8.1 | Free | [Havoc](https://havoc.app/package/modernbattery) |
-| ↳ | Arkrome | A tweak to replicate iOS 16's battery styling | 12.0-14.8.1 | Free | [Saurik Repo](https://cydia.saurik.com/package/com.dpkg.arkrome) |
+| ↳ | half | A tweak to replicate iOS 16's battery styling | 11.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/half) |
 | AirDrop  | TempDrop | AirDrop Time Limit | 14.0+ | Free | [Havoc](https://havoc.app/package/tempdrop) |
 | UI  | Atlas | New Video Player UI  | 14.0+ | Free | [Havoc](https://havoc.app/package/atlas) |
 | Music | ArtFull | New Slider UI | 14.0+ | Free | [Havoc](https://havoc.app/package/artful) |
 | ↳ | NoMusicVolumeKnob | New Music Volume Slider | 13.0+ | Free | [ETHN'S Repo](https://nahtedetihw.github.io/) |
 | Music | MusicAlert | iOS 16.4 Music Alert UI | 13.0+ | Free | [Havoc](https://havoc.app/package/musicalert) |
-| Dynamic Island | Emerald | Emerald enhances your status bar | 12.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/emerald) |
-| Dynamic Island | DynamicPeninsula | Get Dynamic Island effects on your notch | 13.0 - 16.7.10, Notched iPhones Only | $3.99 | [Limneos](https://limneos.net/dynamicpeninsula/) | [u/TECKBAT](https://www.reddit.com/user/TECKBAT/) |
 | Emojis  | EmojiPort | Unicode 14/16.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | watchOS | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
 | Authentication | checkl0ck | checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 16.7.10 | $3.99 | [Havoc](https://havoc.app/package/checkl0ck) |
