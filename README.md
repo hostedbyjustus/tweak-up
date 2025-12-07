@@ -138,7 +138,7 @@ Using these tools, you can unlock most features that are only available on new i
 | ↳ | Complications | Lockscreen Widgets  | 12.0-14.8.1 | $1.99 | [Havoc](https://havoc.app/package/complications) |
 | Lock Screen | Resentment | Lockscreen Music Player | 14.0+ | $1.49 | [Havoc](https://havoc.app/package/resentment) |
 | Lock Screen | ENA - Extract Nearly Anything | Remove BG from Images | 14.0+ | $3.99 | [Havoc](https://havoc.app/package/ena) |
-| Lockscreen | Exiwall [Foxfort Tweak] | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | $2.49 | [Havoc](https://havoc.app/package/exiwall) |
+| Lockscreen | Exiwall [Foxfort Tweak] | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/exiwall) |
 | Battery UI | Ampere | A tweak to replicate iOS 16's battery styling | 14.0-17.7.3 | Free | [Havoc](https://havoc.app/package/ampere) |
 | ↳ | half | A tweak to replicate iOS 16's battery styling | 11.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/half) |
 | AirDrop  | TempDrop | AirDrop Time Limit | 14.0+ | Free | [Havoc](https://havoc.app/package/tempdrop) |
