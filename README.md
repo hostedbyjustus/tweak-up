@@ -59,8 +59,13 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Springboard | LiquidAss [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0-18.7.7 [planned] | Free [upcoming] | n/A |
+| Springboard | LiquidGlassKit [iOS Tweak] | Implementation of different iOS 26 UI elements | 15.0-16.7.15 | Free [PoC] | [ThijsMussig GitHub Repo](https://github.com/ThijsMussig/LiquidGlassKit/releases/tag/v1.3.0-experimental) |
+| Messages | WhatAMess | Messages customization tweak | 16.0-17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
+| Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Homescreen | Vitreux | Liquid Glass like effects everywhere | 16.0+ | Free | [MTAC Repo](https://mtac.app/repo/) |
-| Control Center | CC26 | Liquid Glass on the Control Center | 15.0-16.6.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
+| Control Center | CC26 | Liquid Glass on the Control Center | 15.0-16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
+
 
 ### Apple Intelligence:
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
@@ -107,7 +112,7 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Writing Tools | Write Now | Adds the AI Rewrite feature to Jailbroken devices | 15.0+ | $4.99 | [Havoc](https://havoc.app/package/writenow) |
 | AI Siri Integration | SiriPlus | ChatGPT/Gemini Integration for Siri | 14.0+ | $4.99 | [Havoc](https://havoc.app/package/siriplus) |
-| Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0+ | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
+| Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0-15.7.6 [versions above are untested] | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
 | ↳ | Violet | Siri Theming tool | 14.0-14.8.1 | Free | [Havoc](https://havoc.app/package/violet) |
 
 ---
@@ -125,7 +130,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Messages | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo](https://p2kdev.github.io/repo/) |
 | LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | $3.99 | [Chariz](https://chariz.com/buy/lastlook) |
 | Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://havoc.app/package/aim) |
-| Keyboard | EmojiPort (iOS 12.0-17.3) | Latest emojis for iOS | 12.0 - 17.3 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
+| Emojis  | EmojiPort | Unicode 15/17.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 
 ---
 
@@ -168,6 +173,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Emojis  | EmojiPort | Unicode 13/15.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Newer Shortcuts | Pastcuts | Import iOS 15+ shortcuts on iOS 13/14 | 13.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/pastcuts) |
 
 ---
@@ -178,6 +184,7 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Widgets | Xen HTML | Xen HTML allows you to add widgets to your Homescreen and Lockscreen | 9.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/xenhtml) |
 | App Library | Vesta | Access all your applications with a swipe | 11.0 - 13.6 | Free | [SparkDev](https://www.sparkdev.me/package/com.spark.vesta) |
+| Emojis  | EmojiPort | Unicode 12/14.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Remove Apps from Homescreen | HideYourApps | Hide apps from your Home screen | 11.0 - 12.5.6 | Free | [Dynastic](https://repo.dynastic.co/package/hideyourapps) |
 
 ---
@@ -187,6 +194,7 @@ Using these tools, you can unlock most features that are only available on new i
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | New Volume HUD | 13HUD | iOS 13 volume HUD | 11.0 - 12.4.3 | Free | [Havoc](https://havoc.app/package/13hud) |
+| Emojis  | EmojiPort | Unicode 11/13.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 
 ---
 
