@@ -60,7 +60,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| x | x | x | x | x | [x](x) |
+| Homescreen | Solid Glass 27 | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
 
 
 ### Apple Intelligence:
@@ -75,6 +75,7 @@ Using these tools, you can unlock most features that are only available on new i
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Springboard | LiquidAss [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0 - 18.7.7 [planned] | Free | [dylv's Repo](https://winaviation.github.io/repo) |
+| Homescreen | Solid Glass [Version 2.2.1 and below] | iOS 26 style homescreen icons | 7.0+ | Free | [iVintage GitHub]([ivintagelover.github.io/repo](https://github.com/iVintageLover/Solid-Glass/releases#release-2.2.1)) |
 | Springboard | Solert | iOS 26-inspired UIAlertController restyling for iOS 15 | 15.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Messages | WhatAMess | Messages customization tweak | 15.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
