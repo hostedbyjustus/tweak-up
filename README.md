@@ -19,6 +19,7 @@ A curated list of iOS Jailbreak Tweaks that help you unlock the latest features 
     - [Misaka X](https://github.com/straight-tamago/misakaX)
     - [Trollstore](https://github.com/opa334/TrollStore)
 - **Tweaks**
+    - 🏎️ [iOS 27](#ios-27)
     - 🪟 [iOS 26](#ios-26)
     - 🎨 [iOS 18](#ios-18)
     - 🗺️ [iOS 17](#ios-17)
@@ -55,16 +56,30 @@ Using these tools, you can unlock most features that are only available on new i
 
 
 ## **Tweaks (for iPhones with a jailbreak)**
+# iOS 27 (in progress)
+
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| x | x | x | x | x | [x](x) |
+
+
+### Apple Intelligence:
+| **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
+|:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Siri | LiquidSiri | Lets Siri appear like on iOS 27 when using the enhanced Siri | 14.0 - 16.x | Free | [Thijs2004 GitHub](https://github.com/Thijs2004/LiquidSiri) |
+
+---
+
 # iOS 26 
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Springboard | LiquidAss [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0-18.7.7 [planned] | Free [upcoming] | n/A |
-| Springboard | LiquidGlassKit [iOS Tweak] | Implementation of different iOS 26 UI elements | 15.0-16.7.15 | Free [PoC] | [ThijsMussig GitHub Repo](https://github.com/ThijsMussig/LiquidGlassKit/releases/tag/v1.3.0-experimental) |
-| Messages | WhatAMess | Messages customization tweak | 16.0-17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
+| Springboard | LiquidAss [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0 - 18.7.7 [planned] | Free | [dylv's Repo](https://winaviation.github.io/repo) |
+| Springboard | Solert | iOS 26-inspired UIAlertController restyling for iOS 15 | 15.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
+| Messages | WhatAMess | Messages customization tweak | 16.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Homescreen | Vitreux | Liquid Glass like effects everywhere | 16.0+ | Free | [MTAC Repo](https://mtac.app/repo/) |
-| Control Center | CC26 | Liquid Glass on the Control Center | 15.0-16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
+| Control Center | CC26 | Liquid Glass on the Control Center | 15.0 - 16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
 
 
 ### Apple Intelligence:
@@ -87,7 +102,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Homescreen | Snowboard | Remove App labels | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
 | Homescreen | NoWidgetLabels | Remove Widget labels | 14.0+ | Free | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | Homescreen | A-Shields | App locking feature | 12.0+ | Free | [Merona Repo](https://repo.co.kr/package/com.rpgfarm.a-shields) |
-| ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0-13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
+| ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0 - 13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 14.0 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0 - 14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
@@ -113,7 +128,7 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Writing Tools | Write Now | Adds the AI Rewrite feature to Jailbroken devices | 15.0+ | $4.99 | [Havoc](https://havoc.app/package/writenow) |
 | AI Siri Integration | SiriPlus | ChatGPT/Gemini Integration for Siri | 14.0+ | $4.99 | [Havoc](https://havoc.app/package/siriplus) |
-| Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0-15.7.6 [versions above are untested] | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
+| Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0 - 15.7.6 [versions above are untested] | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
 | ↳ | Violet | Siri Theming tool | 14.0-14.8.1 | Free | [Havoc](https://havoc.app/package/violet) |
 
 ---
