@@ -98,11 +98,11 @@ Using these tools, you can unlock most features that are only available on new i
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
 | Homescreen | CustHome | Backports the iOS 18 Home Screen customization experience | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
+| ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0 - 13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Homescreen | Snowboard | Remove App labels | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
 | Homescreen | NoWidgetLabels | Remove Widget labels | 14.0+ | Free | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | Homescreen | A-Shields | App locking feature | 12.0+ | Free | [Merona Repo](https://repo.co.kr/package/com.rpgfarm.a-shields) |
-| ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0 - 13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 14.0 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0 - 14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
