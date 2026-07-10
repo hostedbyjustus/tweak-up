@@ -78,7 +78,6 @@ Using these tools, you can unlock most features that are only available on new i
 | Springboard | Solert | iOS 26-inspired UIAlertController restyling for iOS 15 | 15.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Messages | WhatAMess | Messages customization tweak | 15.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
-| Homescreen | Vitreux | Liquid Glass like effects everywhere | 16.0+ | Free | [MTAC Repo](https://mtac.app/repo/) |
 | Control Center | CC26 | Liquid Glass on the Control Center | 15.0 - 16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
 
 
