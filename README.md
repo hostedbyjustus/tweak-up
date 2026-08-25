@@ -60,7 +60,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Homescreen | Solid Glass 27 | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
+| Homescreen | Solid Glass | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
 
 
 ### Apple Intelligence:
@@ -74,10 +74,12 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Springboard | LiquidAss [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0 - 18.7.7 [planned] | Free | [dylv's Repo](https://winaviation.github.io/repo) |
-| Homescreen | Solid Glass [Version 2.2.1 and below] | iOS 26 style homescreen icons | 7.0+ | Free | [iVintage GitHub]([ivintagelover.github.io/repo](https://github.com/iVintageLover/Solid-Glass/releases#release-2.2.1)) |
+| Springboard | Liquid(Gl)ass [temporary name] | Adds an iOS 26 style Liquid Glass interface | 14.0 - 18.7.7 [planned] | Free | [dylv's Repo](https://winaviation.github.io/repo) |
+| Springboard | 26Anim | iOS 26s app opening/closing animations replicated | ? | Free | [dylv's Repo](https://winaviation.github.io/repo) |
 | Springboard | Solert | iOS 26-inspired UIAlertController restyling for iOS 15 | 15.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
-| Messages | WhatAMess | Messages customization tweak | 15.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) | 
+| Homescreen | Solid Glass | iOS 26 style homescreen icons | 7.0+ | Free | [iVintage GitHub]([ivintagelover.github.io/repo](https://github.com/iVintageLover/Solid-Glass/releases#release-2.2.1)) |
+| Messages | WhatAMess | Messages customization tweak | 15.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) |
+| Camera | 26Cam (Legacy) | iOS 26 camera style tweak for legacy devices | ? | Free | [dylv's Repo](https://winaviation.github.io/repo) |
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Control Center | CC26 | Liquid Glass on the Control Center | 15.0 - 16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
 
@@ -95,15 +97,18 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Keyboard | EmoZoom | Scale emoji size on iOS emoji keyboard. | 8.3 - 17.5 | Free | [Chariz](https://chariz.com/get/emozoom) |
 | Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
-| System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) |
+| Lockscreen | Crescendo | Volume slider on the lock screen | 16.0 - 26.0.1 | Free | [Havoc](https://havoc.app/depiction/Crescendo) |
+| System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) 
+| System | DePuke | Vehicle Motion Cues backported | 15.0-16.5+ | Free | [dnullptr GitHub](https://github.com/dnullptr/DePuke) |
 | Homescreen | CustHome | Backports the iOS 18 Home Screen customization experience | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
+| Homescreen | applock | Native-like app locking backported | 16.0-17.3.1+ | Free | [pawxed GitHub](https://github.com/pawxed/applock) |
 | Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
 | ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0 - 13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Homescreen | Snowboard | Remove App labels | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
 | Homescreen | NoWidgetLabels | Remove Widget labels | 14.0+ | Free | [ETHN's Repo](https://nahtedetihw.github.io/) |
 | Homescreen | A-Shields | App locking feature | 12.0+ | Free | [Merona Repo](https://repo.co.kr/package/com.rpgfarm.a-shields) |
-| Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0 - 17.5 | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
+| Homescreen | Solstice | iOS 18 dark system-wide icons | 5.0+ | $2.99 | [Chariz](https://chariz.com/buy/solstice) |
 | LockScreen | QuickActions | Remap or remove quick action buttons | 14.0 - 16.7.10 | Free | [Chariz](https://chariz.com/buy/quickactions) |
 | ↳ | QuickLS | Custom Lockscreen Shortcuts | 13.0 - 14.8.1 | $0.99 | [Chariz](https://chariz.com/buy/quickls) |
 | ↳ | Jumper | Custom Lockscreen Shortcuts | 12.0 - 14.8.1 | $1.99 | [Havoc](https://havoc.app/package/jumper) |
