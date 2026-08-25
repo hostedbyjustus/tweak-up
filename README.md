@@ -161,10 +161,10 @@ Using these tools, you can unlock most features that are only available on new i
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Homescreen | SearchDots | Replaces the page dots with Spotlight Search Pill | 14.0 - 15.7 | Free | [Chariz](https://chariz.com/get/searchdots) |
-| Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/aim) |
+| Lock Screen | AIM | iOS 16 Style Time & Date | 14.0 - 16.5 | Free | [Havoc](https://havoc.app/package/aim) |
 | ↳ | Complications | Lockscreen Widgets  | 12.0-14.8.1 | $1.99 | [Havoc](https://havoc.app/package/complications) |
-| Lock Screen | Resentment | Lockscreen Music Player | 14.0+ | $1.49 | [Havoc](https://havoc.app/package/resentment) |
-| Lock Screen | ENA - Extract Nearly Anything | Remove BG from Images | 14.0+ | $3.99 | [Havoc](https://havoc.app/package/ena) |
+| Lockscreen | Resentment | Lockscreen Music Player | 14.0+ | $1.49 | [Havoc](https://havoc.app/package/resentment) |
+| Lockscreen | ENA - Extract Nearly Anything | Remove BG from Images | 14.0+ | $3.99 | [Havoc](https://havoc.app/package/ena) |
 | Lockscreen | Exiwall [Foxfort Tweak] | Exiwall generates depth effect wallpapers | 14.0 - 15.7.1 | Free | [Havoc](https://havoc.app/package/exiwall) |
 | Battery UI | Ampere | A tweak to replicate iOS 16's battery styling | 14.0-17.7.3 | Free | [Havoc](https://havoc.app/package/ampere) |
 | ↳ | half | A tweak to replicate iOS 16's battery styling | 11.0 - 14.8.1 | Free | [Havoc](https://havoc.app/package/half) |
