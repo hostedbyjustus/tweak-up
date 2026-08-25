@@ -132,7 +132,7 @@ Using these tools, you can unlock most features that are only available on new i
 ### Apple Intelligence:
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Writing Tools | Write Now | Adds the AI Rewrite feature to Jailbroken devices | 15.0+ | $4.99 | [Havoc](https://havoc.app/package/writenow) |
+| Writing Tools | Write Now | Adds the AI Rewrite feature to Jailbroken devices | 15.0-18.3 | $4.99 | [Havoc](https://havoc.app/package/writenow) |
 | AI Siri Integration | SiriPlus | ChatGPT/Gemini Integration for Siri | 14.0+ | $4.99 | [Havoc](https://havoc.app/package/siriplus) |
 | Siri Apple Intelligence UI | Violet Pro | Siri Theming tool | 15.0 - 15.7.6 [versions above are untested] | $1.99 | [Havoc](https://havoc.app/package/violetpro) |
 | ↳ | Violet | Siri Theming tool | 14.0-14.8.1 | Free | [Havoc](https://havoc.app/package/violet) |
