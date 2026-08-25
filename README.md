@@ -143,7 +143,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Statusbar | Single Mute | We managed to bring you the original mute feelings of iPhone 15/16 series for all jailbroken iOS 15/16 devices. | 15.0 - 16.7.10 | Free | [Havoc](https://havoc/depiction/singlemute) |
+| Statusbar | Single Mute | We managed to bring you the original mute feelings of iPhone 15/16 series for all jailbroken devices. | 15.0 - 16.7.10 | Free | [Havoc](https://havoc.app/depiction/singlemute) |
 | Maps | Advanced Map Enabler | Enables globe on unsupported devices | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Translations | LatestTranslate | Make Apple's Translate app support all languages to date. | 14.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/latesttranslate.html) |
 | System | DarkPods | Backport the iOS 17 AirPods popup to iOS 14-16 | 14.0 - 16.7.10 | Free | [iCraze's Repo](https://repo.icrazeios.com/) |
