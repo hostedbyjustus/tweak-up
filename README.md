@@ -176,7 +176,8 @@ Using these tools, you can unlock most features that are only available on new i
 | Emojis  | EmojiPort | Unicode 14/16.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | watchOS | Legizmo ‘Kincaid’ | Pair Newer Apple Watches | 13.0 - 15.7 | $4.99 | [Chariz](https://chariz.com/buy/legizmo-kincaid) |
 | Authentication | checkl0ck [Foxfort Tweak] | checkl0ck is a tweak for devices to give you back the passcode and biometric capabilities | 14.3 - 16.7.10 | $3.99 | [Havoc](https://havoc.app/package/checkl0ck) |
-| Widgets | Live Activities [offline, looking for archive] | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 15.7.8 | $2.99 | [Havoc](https://havoc.app/package/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
+| Widgets | Live Activities [Hyperixa Tweak] | Have some of your live activities on your lock screen, including interactions with some modules | 14.0 - 17.x+ | $2.49 | [
+0xkuj Repo](https://0xkuj.yourepo.com/pack/liveactivities) | [u/corazoncerebral](https://www.reddit.com/user/corazoncerebral/) |
 | Live Text | Live Text Enabler | Enable Live Text on unsupported iOS 15 devices | 15.0 - 16.7.10 | Free | [PoomSmart](https://poomsmart.github.io/repo/depictions/livetextenabler.html) | [u/TheInsane103](https://www.reddit.com/user/TheInsane103/) |
 | Messages | MarkMessagesUnread | An tweak based on "MessageUnread" with notification badge reminder | 11.0 - 14.8.1 | Free | [Bigboss](http://cydia.saurik.com/package/com.ljinc.markmessagesunread/) | [u/Doctor__Hammer](https://www.reddit.com/user/Doctor__Hammer/) |
 
