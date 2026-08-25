@@ -116,6 +116,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Camera | RecordPause | Pause/resume video recording | 15.0 - 16.7.10 | Free | [Poom Smart´s Repo](https://poomsmart.github.io/repo/depictions/advancedmapenabler.html) |
 | Control Center  | CCSupport | Custom CC Organization | 11.0+ | Free | [Opa334 GitHub](https://github.com/opa334/CCSupport) |
 | Control Center  | CC18 | iOS 18 Control Center design | 14.0+* | Free | [dayanch96 GitHub](https://github.com/dayanch96/CC18) |
+| Control Center  | CCAster | An iOS 18-inspired, editable Control Center experience for iOS 16 | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Control Center  | Centra | Custom CC module Sizes | 15.0+ | $0.99 | [Havoc](https://havoc.app/package/centra) |
 | Control Center  | QuickActions | Custom Lockscreen Shortcuts | 14.0+ | Free | [Chariz](https://chariz.com/get/quickactions) |
 | Control Center  | CCMusicArtwork | Cover in CC Media module | 11.0+ | Free | [Sparkdev Repo](https://www.sparkdev.me/package/com.spark.ccmusicartwork) |
