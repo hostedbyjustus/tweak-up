@@ -149,7 +149,7 @@ Using these tools, you can unlock most features that are only available on new i
 | System | DarkPods | Backport the iOS 17 AirPods popup to iOS 14-16 | 14.0 - 16.7.10 | Free | [iCraze's Repo](https://repo.icrazeios.com/) |
 | System | ChargeLimiter | App to limit your charging and configure and view low-level settings | 12.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/chargelimiter) |
 | Music | ArtFull | Make the Apple Music app look like iOS 17 | 14.0 - 16.7.10 | Free | [Havoc](https://havoc.app/package/artfull) |
-| Messages | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo](https://p2kdev.github.io/repo/) |
+| Messages | SwipeToReply | Enables swipe to reply gesture on iOS 16 | 15.0 - 16.7.10 | Free | [P2KDevs´s Repo]([https://p2kdev.github.io/repo/](https://web.archive.org/web/20250219091932/https://p2kdev.github.io/repo/)) |
 | LockScreen | LastLook | Adds always-on to your lock screen | 12.0 - 16.7.10 | $3.99 | [Chariz](https://chariz.com/buy/lastlook) |
 | Camera | 11Cam15 | Adds the iPhone 11 Camera App to your iPhone | 15.0 - 16.7.10 | Free | [Michael Melita´s Repo](https://havoc.app/package/aim) |
 | Emojis  | EmojiPort | Unicode 15/17.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
