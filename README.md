@@ -78,7 +78,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Springboard | 26Anim | iOS 26s app opening/closing animations replicated | ? | Free | [dylv's Repo](https://winaviation.github.io/repo) |
 | Springboard | Solert | iOS 26-inspired UIAlertController restyling for iOS 15 | 15.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Homescreen | Solid Glass | iOS 26 style homescreen icons | 7.0+ | Free | [iVintage GitHub]([ivintagelover.github.io/repo](https://github.com/iVintageLover/Solid-Glass/releases#release-2.2.1)) |
-| Messages | WhatAMess | Messages customization tweak | 15.0 - 17.0 | Free | [Havoc](https://havoc.app/package/whatamess) |
+| Messages | WhatAMess | Messages customization tweak | 15.0 - 18.0 | Free | [Havoc](https://havoc.app/package/whatamess) |
 | Camera | 26Cam (Legacy) | iOS 26 camera style tweak for legacy devices | ? | Free | [dylv's Repo](https://winaviation.github.io/repo) |
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
 | Control Center | CC26 | Liquid Glass on the Control Center | 15.0 - 16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
