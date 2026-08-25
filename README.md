@@ -38,11 +38,11 @@ Using these tools, you can unlock most features that are only available on new i
 
 - [Cowabunga Lite](https://cowabun.ga/)<br>
   A helpful tool that allows you to enable extra stuff and helps with theming.<br>
-  **Supports iOS 15.0 - newest iOS. Computer required.**
+  **Supports iOS 15.0 - newest iOS (untested). Computer required.**
 
 - [Nugget](https://github.com/leminlimez/Nugget)<br>
   An awesome tool that allows you to enable features from newer iPhones.<br>
-  **Supports iOS 17.0 - newest iOS (limited). Computer required.**
+  **Supports iOS 17.0 - iOS 26.6.1 (limited). Computer required.**
   
 - [Misaka X](https://github.com/straight-tamago/misakaX)<br>
   A great tool that can enable features from newer iPhones. **Can install trollstore**<br>
