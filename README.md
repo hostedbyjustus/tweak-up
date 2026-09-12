@@ -100,7 +100,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
 | Lockscreen | Crescendo [AI-assited] | Volume slider on the lock screen | 16.0 - 26.0.1 | Free | [Havoc](https://havoc.app/depiction/Crescendo) |
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) 
-| System | DePuke | Vehicle Motion Cues backported | 15.0-16.5+ | Free | [dnullptr GitHub](https://github.com/dnullptr/DePuke) |
+| System | DePuke | Vehicle Motion Cues backported | 15.0-17.0+ | Free | [dnullptr GitHub](https://github.com/dnullptr/DePuke) |
 | Homescreen | CustHome | Backports the iOS 18 Home Screen customization experience | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Homescreen | applock | Native-like app locking backported | 16.0-17.x+ | Free | [pawxed GitHub](https://github.com/pawxed/applock) |
 | Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10, 17.0+ ([Fix](https://github.com/Yves000/griddy)) | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
