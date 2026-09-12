@@ -103,7 +103,7 @@ Using these tools, you can unlock most features that are only available on new i
 | System | DePuke | Vehicle Motion Cues backported | 15.0-16.5+ | Free | [dnullptr GitHub](https://github.com/dnullptr/DePuke) |
 | Homescreen | CustHome | Backports the iOS 18 Home Screen customization experience | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
 | Homescreen | applock | Native-like app locking backported | 16.0-17.x+ | Free | [pawxed GitHub](https://github.com/pawxed/applock) |
-| Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10 | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
+| Homescreen | Griddy | Place icons and widgets freely on Homescreen | 15.0 - 16.7.10, 17.0+ ([Fix](https://github.com/Yves000/griddy)) | $1.49 | [Havoc](https://havoc.app/depiction/griddy) |
 | ↳ | gridiculous | Place icons and widgets freely on Homescreen | 12.0 - 13.7 | Free | [CPDigitaldrakroom](https://repo.cpdigitaldarkroom.com/debs_public/com.cpdigitaldarkroom.gridiculous_0.2beta3_iphoneos-arm.deb) |
 | Homescreen | ShadowBuster | Remove shadows from Homescreen labels like in iOS 18 | 14 - 16.7.10 | Free | [Lizynz's Repo](https://lizynz.github.io/) |
 | Homescreen | Snowboard | Remove App labels | 7.0+ | Free | [Sparkdev's Repo](https://sparkdev.me) |
