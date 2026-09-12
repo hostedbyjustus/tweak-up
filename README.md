@@ -60,6 +60,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
+| Lockscreen | PleaseStopTheMusic | iOS 27 lockscreen music dismiss gesture | 16.0 - 26.0.1 | Free | [b4db1r3s Repo](https://b4db1r3r3p0.yourrepo.com) |
 | Homescreen | Solid Glass | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
 
 
@@ -81,7 +82,7 @@ Using these tools, you can unlock most features that are only available on new i
 | Messages | WhatAMess | Messages customization tweak | 15.0 - 18.0 | Free | [Havoc](https://havoc.app/package/whatamess) |
 | Camera | 26Cam (Legacy) | iOS 26 camera style tweak for legacy devices | ? | Free | [dylv's Repo](https://winaviation.github.io/repo) |
 | Emojis  | EmojiPort | Unicode 17/26.4 Emojis | 5.1+ | Free | [Poomsmart Repo](https://poomsmart.github.io/repo) |
-| Control Center | CC26 | Liquid Glass on the Control Center | 15.0 - 16.7.x | Free | [CoreUX Repo](https://therealhoodboy.github.io/coreux/) |
+
 
 
 ### Apple Intelligence:
