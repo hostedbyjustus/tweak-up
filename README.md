@@ -60,7 +60,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Lockscreen | PleaseStopTheMusic | iOS 27 lockscreen music dismiss gesture | 16.0 - 26.0.1 | Free | [b4db1r3s Repo](https://b4db1r3r3p0.yourepo.com) |
+| Lockscreen | PleaseStopTheMusic [potentially AI-assisted]| iOS 27 lockscreen music dismiss gesture | 16.0 - 26.0.1 | Free | [b4db1r3s Repo](https://b4db1r3r3p0.yourepo.com) |
 | Homescreen | Solid Glass | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
 
 
@@ -98,7 +98,7 @@ Using these tools, you can unlock most features that are only available on new i
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
 | Keyboard | EmoZoom | Scale emoji size on iOS emoji keyboard. | 8.3 - 17.5 | Free | [Chariz](https://chariz.com/get/emozoom) |
 | Lockscreen | NotificationsGroupCount | iOS 18.1 notification stack count | 15.0 - 16.0 | $1.50 | [0xkuj's Repo](https://0xkuj.yourepo.com/pack/notificationsgroupcount) |
-| Lockscreen | Crescendo | Volume slider on the lock screen | 16.0 - 26.0.1 | Free | [Havoc](https://havoc.app/depiction/Crescendo) |
+| Lockscreen | Crescendo [AI-assited] | Volume slider on the lock screen | 16.0 - 26.0.1 | Free | [Havoc](https://havoc.app/depiction/Crescendo) |
 | System | PopOutButtons | iOS 18 button popout animation | 13.0 - 17.5 | Free | [Chariz](https://chariz.com/get/popoutbuttons) 
 | System | DePuke | Vehicle Motion Cues backported | 15.0-16.5+ | Free | [dnullptr GitHub](https://github.com/dnullptr/DePuke) |
 | Homescreen | CustHome | Backports the iOS 18 Home Screen customization experience | 16.0+ | Free | [Futur3Sn0w Repo](https://futur3sn0w.github.io/repo) |
