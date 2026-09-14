@@ -60,7 +60,7 @@ Using these tools, you can unlock most features that are only available on new i
 
 | **Feature** | **Name of Tweak** | **Description** | **iOS Compatibility** | **Price (USD)** | **Link & Repo** | **Added By** |
 |:--------:|:-------:|:-------:|:------:|:---------:|:---------:|:--------:|
-| Springboard | DuoBar | iOS 27.1 iPhone Duo status bar | ? | Free | [34306s GitHub](https://github.com/34306/DuoBar) |
+| Springboard | DuoBar | iOS 27.1 iPhone Duo status bar | iOS 17.0-26.0.1 (tested) | Free | [34306s GitHub](https://github.com/34306/DuoBar) |
 | Lockscreen | PleaseStopTheMusic [potentially AI-assisted]| iOS 27 lockscreen music dismiss gesture | 16.0 - 26.0.1 | Free | [b4db1r3s Repo](https://b4db1r3r3p0.yourepo.com) |
 | Homescreen | Solid Glass | Brings the iOS 27 icons to older Jailbroken devices | 7.0+ | Free | [iVintageRepo](ivintagelover.github.io/repo) |
 
